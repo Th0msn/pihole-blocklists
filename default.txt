@@ -36,3 +36,5 @@
 (^|\.)wfxtriggers\.com$
 (^|\.)ztat\.net$
 (^|\.)edge-chat\.facebook\.com$
+(^|\.)insnw\.net$
+insnw.net
