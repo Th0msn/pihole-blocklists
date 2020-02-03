@@ -4,4 +4,38 @@
 0.0.0.0 (^|\.)connect\.facebook\.net$
 0.0.0.0 (^|\.)consensu\.org$
 0.0.0.0 (^|\.)edge-chat\.facebook\.com$
+0.0.0.0 (^|\.)graph\.facebook\.com$
+0.0.0.0 (^|\.)healte\.de$
+0.0.0.0 (^|\.)hs-data\.com$
+0.0.0.0 (^|\.)icony\.com$
+0.0.0.0 (^|\.)igodigital\.com$
+0.0.0.0 (^|\.)ippen\.space$
+0.0.0.0 (^|\.)kameleoon\.eu$
+0.0.0.0 (^|\.)m-pathy\.com$
+0.0.0.0 (^|\.)m2appinsight\.com$
+0.0.0.0 (^|\.)m2catalyst\.com$
+0.0.0.0 (^|\.)marketingcloudapis\.com$
+0.0.0.0 (^|\.)mateti\.net$
+0.0.0.0 (^|\.)mxcdn\.net$
+0.0.0.0 (^|\.)omtrdc\.net$
+0.0.0.0 (^|\.)outbrainimg\.com$
+0.0.0.0 (^|\.)pushwoosh\.com$
+0.0.0.0 (^|\.)rvty\.net$
+0.0.0.0 (^|\.)srvtrck\.com$
+0.0.0.0 (^|\.)summerhamster\.com$
+0.0.0.0 (^|\.)technical-service\.net$
+0.0.0.0 (^|\.)track.tkbo\.com$
+0.0.0.0 (^|\.)umeng\.com$
+0.0.0.0 (^|\.)upscore\.com$
+0.0.0.0 (^|\.)usercentrics\.eu$
+0.0.0.0 (^|\.)voodoo-ads\.io$
+0.0.0.0 (^|\.)wfxtriggers\.com$
+0.0.0.0 (^|\.)ztat\.net$
+
+
+
+
+
+
+
 
