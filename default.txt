@@ -1,3 +1,5 @@
+# wildcard entries
+
 0.0.0.0 (^|\.)bild\.de$
 0.0.0.0 (^|\.)adalliance\.io$
 0.0.0.0 (^|\.)bf-tools\.net$
@@ -32,10 +34,14 @@
 0.0.0.0 (^|\.)wfxtriggers\.com$
 0.0.0.0 (^|\.)ztat\.net$
 
+(^|\.)ztat\.net$
 
+# regex
 
-
-
-
-
-
+((^)|(.))metric.
+((^)|(.))telemetry.
+((^)|(.))analytic.
+((^)|(.))adchoice.
+((^)|(.))adsdk.
+((^)|(.))adserv.
+((^)|(.))tracking.
