@@ -37,3 +37,6 @@ wfxtriggers.com
 ztat.net
 edge-chat.facebook.com
 insnw.net
+data.m2appinsight.com
+bidmachine.io
+idat.production.ippen.space
